@@ -1,6 +1,8 @@
 # HTTPie-Windows
 Stand-alone Windows binary for [HTTPie](https://github.com/jakubroztocil/httpie) version `2.1.0-dev`.
 
+This executable is provided on the [release page](https://github.com/jftuga/HTTPie-Windows/releases).
+
 I was able to successfully build a stand-alone `http.exe` binary inside of the `mcr.microsoft.com/windows/servercore:ltsc2019` Docker container 
 with `Python 3.7.6` and `PyInstaller 3.6`. 
 
