@@ -43,6 +43,8 @@ You are now outside of the Docker container:
 
 The resulting `http.exe` has a file size of `11,600,755`. 
 
+## Warnings
+
 I have only done minimal testing with this binary and can not confirm that all features and command-line options work as expected. Therefore, use at your own risk!
 
 * **VirusTotal Check**
