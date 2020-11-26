@@ -10,7 +10,7 @@ with `Python 3.7.6` and `PyInstaller 3.6`.
 
 [HTTPie Windows packaging discussion](https://github.com/jakubroztocil/httpie/issues/58)
 
-How to build...
+**How to build**
 
 Outside the Docker container:
 
